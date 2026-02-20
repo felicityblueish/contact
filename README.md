@@ -7,9 +7,7 @@ For any issues, feedback, request or inquiries you might have, contact us throug
 <p align="left">
   <a>Developer: </a>&nbsp;
   <a href="https://github.com/ndunguloren96">GitHub</a>&nbsp;&nbsp;
-  <a href="https://x.com/loren_kamau">X</a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/lorenkamau">LinkedIn</a>&nbsp;&nbsp;
-  <a href="mailto:ndunguloren96@gmail.com">Email</a>
+  <a href="https://lorenkamau.com">Portfolio</a>&nbsp;&nbsp;
 </p>
 
 Request GitHub Unfollow: [Link](https://forms.gle/QXCX28vSxxeXP3Qh8)
