@@ -15,6 +15,6 @@ Request GitHub Unfollow: [Link](https://forms.gle/QXCX28vSxxeXP3Qh8)
 
 <p align="center">
   <sub> 
-    We will respond as soon as possible ❤️
+    We will respond as soon as possible.
   </sub>
 </p>
