@@ -1,6 +1,7 @@
 # Contact Us
 For any issues, feedback, request or inquiries you might have, contact us through any of the following:
 - Email: [support@aptifolio.com](mailto:support@aptifolio.com)
+- Feedback: [https://aptifolio.com/#feedback](https://aptifolio.com/#feedback)
 - Form: [https://forms.gle/PmgLQmAVK84LcjGQ6](https://forms.gle/PmgLQmAVK84LcjGQ6)
 
 
