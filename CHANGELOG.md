@@ -34,5 +34,3 @@
   > *Note: By sending an email request, you officially confirm that your intended use is strictly educational.*
 
 </details>
-
-
