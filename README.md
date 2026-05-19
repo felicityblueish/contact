@@ -13,7 +13,6 @@ For any issues, feedback, request or inquiries you might have, contact us throug
 
 Request GitHub Unfollow: [Link](https://forms.gle/QXCX28vSxxeXP3Qh8)
 
-
 <p align="center">
   <sub> 
     We will respond as soon as possible.
