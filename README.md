@@ -4,7 +4,6 @@ For any issues, feedback, request or inquiries you might have, contact us throug
 - Feedback: [aptifolio.com/#feedback](https://aptifolio.com/#feedback)
 - Form: [forms.gle/PmgLQmAVK84LcjGQ6](https://forms.gle/PmgLQmAVK84LcjGQ6)
 
-
 #### Other links:
 <p align="left">
   <a>Developer: </a>&nbsp;
